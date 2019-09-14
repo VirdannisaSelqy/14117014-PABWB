@@ -1,0 +1,30 @@
+Nama   : Virdannisa Selqy Satphira
+NIM    : 14117014
+Kelas  : RB
+
+1.	Lakukanlah perubahan pada kode HTML sesuai keinginan anda,
+        Pernakah terjadi error ketika ada kesalahan kode?
+        Jawab : 
+        a.Sesuai dengan yang diinginkan seperti:
+	  sebelum dilakukan perubahan belum terdapat foto di halaman web kemudian setelah saya tambahkan foto kedalam kode, 
+          maka tampilan yang ada di web ketika sudah di refresh berubah menjadi ada fotonya.
+        b.Belum terjadi error 
+
+2.	Cobalah ubah nilai meta refresh <meta HTTP-EQUIV="REFRESH"
+        content="5; url=http://google.co.id"> apa yang terjadi?, maka jelaskan
+        apa diantara kegunaan meta dokumen?
+        Jawab : 
+        a.Setelah dilakukan perubahan kode, saat kita open maka kita akan diarahkan ke halaman web yang sudah dibuat 
+          selama 5 detik kemudian akan dipindahkan ke halaman GOOGLE
+        b.Meta dokumen berguna untuk mengalihkan halaman website yang tidak terpakai ke halaman website baru.
+
+
+3.	Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+        Jawab :
+        1. HTML <thead> element digunakan untuk mengelompokkan konten yang terletak di kepala (atas) sebuah tabel.
+	2. Di dalam element <thead> tersebut, harus ditulis element <tr> yang menunjukkan table row atau baris sebuah table. 
+	3. HTML <tbody> element digunakan untuk mengelompokkan konten yang terletak pada bagian tubuh table itu sendiri.
+ 	4. <th> : kepanjangan dari table heading, digunakan untuk membuat judul sebuah table seperti No, dan nama. 
+           biasanya di tanda dengan hurufnya menjadi bold seperti contoh table di atas.
+	5. <td> : kepanjangan dari table data, digunakan untuk membuat isi dari th atau baris atau kalau di MS.excel seperti cell.
+	6. <tr> : kepanjangan dari table row, digunakan untuk mendefiniskan baris pada tabel
