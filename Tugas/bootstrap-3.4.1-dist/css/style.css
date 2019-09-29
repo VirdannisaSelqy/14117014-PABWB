@@ -1,0 +1,83 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: white;
+}
+
+.bg-1 {
+    background-color: rgb(108, 206, 236);
+    /* Green */
+    color: black;
+}
+
+.bg-2 {
+    background-color: #474e5d;
+    /* Dark Blue */
+    color: #ffffff;
+}
+
+.bg-3 {
+    background-color: #ffffff;
+    /* White */
+    color: #555555;
+}
+
+.bg-4 {
+    background-color: #2f2f2f;
+    /* Black Gray */
+    color: #fff;
+}
+
+p {
+    font-size: 16px;
+}
+
+.margin {
+    margin-bottom: 45px;
+}
+
+.container-fluid {
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-left: 10px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+p {
+    background-color: rgb(199, 235, 223, 0.5);
+}
+
+.container-fluid h3 {
+    border-left: black;
+    background-color: #2f2f2f;
+}
+
+.container-fluid h2 {
+    padding-left: 60px;
+    padding-top: 5px;
+    padding-bottom: 100px;
+    padding-right: 50px;
+}
+
+.float-right {
+    float: right;
+    margin: 5px;
+}
+
+.float-left {
+    float: left;
+    margin: 0, 5;
+}
