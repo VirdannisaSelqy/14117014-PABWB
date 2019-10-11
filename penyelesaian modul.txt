@@ -1,0 +1,20 @@
+=Percobaan 2
+Jelaskan apa yang dimaksud nested
+property didalam nested-property.html :
+ketentuan atau format yang ada pada file scss akan mempengaruhi bentuk tampilan dari file htmlnya
+kareana
+<p>
+Penjelasan disini ....
+</p>
+berada diluar header maka paragraf tersebut tidak berada didalam kotak yang sudah didefinisikan pada file scss nya.
+
+=Percobaan 4
+setelah di compile maka hasilnya adalah :
+file main.css akan berada di folder css bukan sass
+kemudian isi dari file css mengandung tambahan data berupa :
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: #efefef;
+}
+
+
