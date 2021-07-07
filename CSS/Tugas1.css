@@ -1,0 +1,16 @@
+body {
+  background-image: url(../bling.jpg);
+  background-size: cover;
+}
+
+div {
+  width: 300px;
+  height: 200px;
+  background-color: rgba(255, 104, 63, 0.5);
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  position: absolute;
+  bottom: 0;
+}
